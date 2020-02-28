@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|AXN
+http://king365-tv.com:2103/15808/15808/1645
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO:Nickelodeon
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2166
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO:HBO 2
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2152
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|AXN_BLACK
+http://king365-tv.com:2103/15808/15808/1641
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|ANTENA_1_HD
+http://king365-tv.com:2103/15808/15808/1642
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|ANTENA_3
+http://king365-tv.com:2103/15808/15808/2686
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|ANTENA_STARS
+http://king365-tv.com:2103/15808/15808/1644
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|B1_TV
+http://king365-tv.com:2103/15808/15808/1646
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|A7_TV_HD
+http://king365-tv.com:2103/15808/15808/32297
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|CROMTEL_TV
+http://king365-tv.com:2103/15808/15808/32295
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_24_HD
+http://king365-tv.com:2103/15808/15808/32298
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_WORLD_HD
+http://king365-tv.com:2103/15808/15808/1648
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|FILM_NOW
+http://king365-tv.com:2103/15808/15808/1649
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|FILM_CAFE
+http://king365-tv.com:2103/15808/15808/2695
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|HBO_PREMIERE_HD
+http://king365-tv.com:2103/15808/15808/1677
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|HBO_2
+http://king365-tv.com:2103/15808/15808/2684
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|HBO_3
+http://king365-tv.com:2103/15808/15808/2685
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|CINEMAX 2
+http://king365-tv.com:2103/15808/15808/2693
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIVA_UNIVERSAL
+http://king365-tv.com:2103/15808/15808/2690
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|PRO_TV
+http://king365-tv.com:2103/15808/15808/5076
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|PRO_TV_FHD
+http://king365-tv.com:2103/15808/15808/2694
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|PRO_GOLD
+http://king365-tv.com:2103/15808/15808/2688
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|PRO_2
+http://king365-tv.com:2103/15808/15808/2691
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|PRIMA_TV
+http://king365-tv.com:2103/15808/15808/2689
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_SPORT_1_HD
+http://king365-tv.com:2103/15808/15808/1650
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_SPORT_2_HD
+http://king365-tv.com:2103/15808/15808/1651
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_SPORT_3
+http://king365-tv.com:2103/15808/15808/1652
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_SPORT_4
+http://king365-tv.com:2103/15808/15808/1653
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|EUROSPORT_1
+http://king365-tv.com:2103/15808/15808/1657
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|EUROSPORT_2_HD
+http://king365-tv.com:2103/15808/15808/1658
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO| Telekom Sport 1 HD
+http://king365-tv.com:2103/15808/15808/12485
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO| Telekom Sport 2 HD
+http://king365-tv.com:2103/15808/15808/12484
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO| Telekom Sport 3 HD
+http://king365-tv.com:2103/15808/15808/12483
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO| Telekom Sport 4 HD
+http://king365-tv.com:2103/15808/15808/12482
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO| Telekom Sport 5 HD
+http://king365-tv.com:2103/15808/15808/12481
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO| Telekom Sport 6 HD
+http://king365-tv.com:2103/15808/15808/12480
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|LOOK_SPORT_TV_HD
+http://king365-tv.com:2103/15808/15808/1669
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|ETNO_TV
+http://king365-tv.com:2103/15808/15808/1656
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|FAVORIT_TV
+http://king365-tv.com:2103/15808/15808/1659
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|TV_NEPTUN
+http://king365-tv.com:2103/15808/15808/1660
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|KANAL_D
+http://king365-tv.com:2103/15808/15808/1662
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|KISS_TV
+http://king365-tv.com:2103/15808/15808/1663
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|TARAF_TV
+http://king365-tv.com:2103/15808/15808/1673
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|PRO_TV_X
+http://king365-tv.com:2103/15808/15808/1664
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|REALITATEA_TV
+http://king365-tv.com:2103/15808/15808/1671
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|ROMANIA_TV
+http://king365-tv.com:2103/15808/15808/1672
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|TV_1000
+http://king365-tv.com:2103/15808/15808/1674
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|TVR_1
+http://king365-tv.com:2103/15808/15808/1675
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|TVR_2
+http://king365-tv.com:2103/15808/15808/1676
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DIGI_ANIMAL_WORLD
+http://king365-tv.com:2103/15808/15808/2768
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|NATIONAL_GEO_HD
+http://king365-tv.com:2103/15808/15808/1667
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|NATIONAL_GEO_WILD_HD
+http://king365-tv.com:2103/15808/15808/1666
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|HISTORY_HD
+http://king365-tv.com:2103/15808/15808/1661
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DISCOVERY
+http://king365-tv.com:2103/15808/15808/3707
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DISOVERY_SCIENCE_HD
+http://king365-tv.com:2103/15808/15808/3708
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|VIASAT_HISTORY
+http://king365-tv.com:2103/15808/15808/1643
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|VIASAT_EXPLORER
+http://king365-tv.com:2103/15808/15808/2766
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|VIASAT_NATURE
+http://king365-tv.com:2103/15808/15808/2767
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|MINIMAX
+http://king365-tv.com:2103/15808/15808/1665
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|MEGAMAX
+http://king365-tv.com:2103/15808/15808/1647
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|DISNEY_JUNIOR
+http://king365-tv.com:2103/15808/15808/1655
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|NICKELODEON
+http://king365-tv.com:2103/15808/15808/1668
+#EXTINF:0 tvg-id="ext" group-title="Channels",RO|NICKTOONS
+http://king365-tv.com:2103/15808/15808/32293
